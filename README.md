@@ -1,3 +1,3 @@
-# kp_health
+# KpHealth
 
-Sustainable Health to promote "<b>Core Values of Honesty &amp; Care</b>"
+Health Services to promote "<b>Core Values of Honesty &amp; Care</b>"

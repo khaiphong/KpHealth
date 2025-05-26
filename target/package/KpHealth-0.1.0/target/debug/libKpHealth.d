@@ -1,0 +1,1 @@
+/home/batien/Kp/GitSrc/github.com/khaiphong/KpHealth/target/package/KpHealth-0.1.0/target/debug/libKpHealth.rlib: /home/batien/Kp/GitSrc/github.com/khaiphong/KpHealth/target/package/KpHealth-0.1.0/src/lib.rs
